@@ -34,6 +34,7 @@
  * If you want to change separator of datetime,
  *  set separator value on the changeDatetimeSeparator property.
  */
+App::uses('FormHelper', 'View/Helper');
 
 class XformHelper extends FormHelper {
 
